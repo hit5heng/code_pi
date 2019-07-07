@@ -1,0 +1,6 @@
+faces/hit5heng/0.png;0
+faces/hit5heng/5.png;0
+faces/hit5heng/3.png;0
+faces/hit5heng/4.png;0
+faces/hit5heng/2.png;0
+faces/hit5heng/1.png;0
